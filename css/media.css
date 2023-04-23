@@ -613,7 +613,7 @@
   .footer__menu li {
     margin: 15px 0;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: normal
   }
   .footer__tel {
@@ -650,7 +650,7 @@
   }
   .footer__social a {
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 25px
   }
   .footer__social li {
@@ -784,7 +784,7 @@
     line-height: 20px
   }
   p {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 20px
   }
   .investment__item .item__circle:before {
@@ -893,7 +893,7 @@
   }
   .consultation__main__info input {
     font-weight: 400;
-    font-size: 12px;
+    font-size: 14px;
     line-height: 15px
   }
   .aboutme__more a,
